@@ -6,9 +6,9 @@ Me and my team were tasked with the identification of 183 speakers based on spok
 
 Collaborators:
 
-linkedin.com/in/anne-fleur-donker
-linkedin.com/in/balázs-gönczy-5b1445161
-linkedin.com/in/hans-kuijpers
-linkedin.com/in/muriël-valckx
+-linkedin.com/in/anne-fleur-donker
+-linkedin.com/in/balázs-gönczy-5b1445161
+-linkedin.com/in/hans-kuijpers
+-linkedin.com/in/muriël-valckx
 
 Please feel free to read our analysis pdf file if you are interested in our workflow!
