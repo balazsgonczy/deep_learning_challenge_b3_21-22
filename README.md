@@ -2,7 +2,7 @@
 
 Group assignment for the Deep Learning course at Tilburg University:
 
-Me and my team were tasked with the identification of 183 speakers based on spoken utterances stored in wav files. We have scored the 12nd place among the 40 teams with the Test Accuracy score of 0.9794.
+Me and my team were tasked with the identification of 183 speakers based on spoken utterances stored in 40.000 wav files. We have scored the 12nd place among the 40 teams with the Test Accuracy score of 0.9794.
 
 Collaborators:
 
